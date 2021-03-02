@@ -1,0 +1,95 @@
+[
+    {
+        "file": "/Users/amishra/Desktop/googledrive/packages/secure/src/secure_SURR_fit.cpp",
+        "file_last_write": 1491574339.0,
+        "definitions": [
+            {
+                "usr": "c:@F@nzcount#$@N@arma@S@Col>#d#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "nzcount(arma::vec)",
+                "file": "/Users/amishra/Desktop/googledrive/packages/secure/src/secure_SURR_fit.cpp",
+                "line": 19,
+                "column": 5
+            },
+            {
+                "usr": "c:@F@wpow#$@N@arma@S@Col>#d#d#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "wpow(arma::vec, double)",
+                "file": "/Users/amishra/Desktop/googledrive/packages/secure/src/secure_SURR_fit.cpp",
+                "line": 26,
+                "column": 11
+            },
+            {
+                "usr": "c:@F@softThres#d#d#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "softThres(double, double)",
+                "file": "/Users/amishra/Desktop/googledrive/packages/secure/src/secure_SURR_fit.cpp",
+                "line": 44,
+                "column": 8
+            },
+            {
+                "usr": "c:@F@bregpcdenet_Rcpp#$@N@arma@S@Col>#d#$@N@arma@S@Mat>#d#S1_#S0_#S0_#S0_#d#d#S0_#$@N@Rcpp@S@Vector>#VI19#@N@Rcpp@ST>1#T@PreserveStorage#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "bregpcdenet_Rcpp(arma::vec, arma::mat, arma::mat, arma::vec, arma::vec, arma::vec, double, double, arma::vec, Rcpp::List)",
+                "file": "/Users/amishra/Desktop/googledrive/packages/secure/src/secure_SURR_fit.cpp",
+                "line": 63,
+                "column": 11
+            },
+            {
+                "usr": "c:@F@bregpcdenetdiag_Rcpp#$@N@arma@S@Col>#d#S0_#$@N@arma@S@Mat>#d#S0_#S0_#S0_#d#d#S0_#$@N@Rcpp@S@Vector>#VI19#@N@Rcpp@ST>1#T@PreserveStorage#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "bregpcdenetdiag_Rcpp(arma::vec, arma::vec, arma::mat, arma::vec, arma::vec, arma::vec, double, double, arma::vec, Rcpp::List)",
+                "file": "/Users/amishra/Desktop/googledrive/packages/secure/src/secure_SURR_fit.cpp",
+                "line": 139,
+                "column": 11
+            },
+            {
+                "usr": "c:@F@secure_SURR_Rcpp#$@N@arma@S@Mat>#d#S0_#S0_#S0_#$@N@arma@S@Col>#d#S1_#S1_#S1_#d#I#$@N@Rcpp@S@Vector>#VI19#@N@Rcpp@ST>1#T@PreserveStorage#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "secure_SURR_Rcpp(arma::mat, arma::mat, arma::mat, arma::mat, arma::vec, arma::vec, arma::vec, arma::vec, double, int, Rcpp::List)",
+                "file": "/Users/amishra/Desktop/googledrive/packages/secure/src/secure_SURR_fit.cpp",
+                "line": 217,
+                "column": 12
+            },
+            {
+                "usr": "c:@F@secure_SURR_Rcpp_ortho#$@N@arma@S@Mat>#d#S0_#S0_#S0_#$@N@arma@S@Col>#d#S1_#S1_#S1_#d#I#$@N@Rcpp@S@Vector>#VI19#@N@Rcpp@ST>1#T@PreserveStorage#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "secure_SURR_Rcpp_ortho(arma::mat, arma::mat, arma::mat, arma::mat, arma::vec, arma::vec, arma::vec, arma::vec, double, int, Rcpp::List)",
+                "file": "/Users/amishra/Desktop/googledrive/packages/secure/src/secure_SURR_fit.cpp",
+                "line": 408,
+                "column": 12
+            },
+            {
+                "usr": "c:@F@secure_SURR_miss_Rcpp#$@N@arma@S@Mat>#d#S0_#S0_#S0_#S0_#$@N@arma@S@Col>#d#S1_#S1_#S1_#d#I#$@N@Rcpp@S@Vector>#VI19#@N@Rcpp@ST>1#T@PreserveStorage#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "secure_SURR_miss_Rcpp(arma::mat, arma::mat, arma::mat, arma::mat, arma::mat, arma::vec, arma::vec, arma::vec, arma::vec, double, int, Rcpp::List)",
+                "file": "/Users/amishra/Desktop/googledrive/packages/secure/src/secure_SURR_fit.cpp",
+                "line": 597,
+                "column": 12
+            }
+        ]
+    },
+    {
+        "file": "/Users/amishra/Desktop/googledrive/packages/secure/src/secure_init.c",
+        "file_last_write": 1491574339.0,
+        "definitions": [
+            {
+                "usr": "c:@F@R_init_markovchain#*$@S@_DllInfo#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "R_init_markovchain(DllInfo *)",
+                "file": "/Users/amishra/Desktop/googledrive/packages/secure/src/secure_init.c",
+                "line": 7,
+                "column": 6
+            }
+        ]
+    }
+]
